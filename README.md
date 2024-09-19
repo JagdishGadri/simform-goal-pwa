@@ -21,3 +21,9 @@
 - standalone
 - fullscreen
 - minimal-ui
+
+## Service Worker: ![image](https://github.com/user-attachments/assets/52266280-9514-4241-bd22-02ee76e95c05)
+
+## Check installed service workers: chrome://serviceworker-internals
+
+
